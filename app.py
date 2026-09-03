@@ -23,8 +23,7 @@ import joblib
 import io
 from datetime import datetime
 import plotly.graph_objects as go
-# Load trained model
-model = joblib.load("model.pkl")
+
 
 # ------------------------------------------------------------------
 # PAGE CONFIG
